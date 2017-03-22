@@ -1,4 +1,4 @@
-# Functional PHP
+# C# 7 and .NET Core: Modern Cross-Platform Development - Second Edition
 This is the code repository for [C# 7 and .NET Core: Modern Cross-Platform Development - Second Edition](https://www.packtpub.com/application-development/c-7-and-net-core-modern-cross-platform-development-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787129559), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 If you want to build powerful cross-platform applications with C# 7 and .NET Core, then this book is for you. By the end of the book, you'll be armed with all the knowledge you need to build modern, cross-platform applications using C# and .NET Core.
