@@ -3,7 +3,7 @@ This is the code repository for [C# 7 and .NET Core: Modern Cross-Platform Devel
 ## About the Book
 If you want to build powerful cross-platform applications with C# 7 and .NET Core, then this book is for you. By the end of the book, you'll be armed with all the knowledge you need to build modern, cross-platform applications using C# and .NET Core.
 
-##Instructions and Navigation
+## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 The code will look like the following:
